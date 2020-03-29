@@ -3,6 +3,7 @@ Create a simple golang program to print coronavirus cases (use the hard-coded nu
 
 Download both coronavirus.go and .exe file
 move to the folder containing these files in cmd
+
 To simply run the program write in cmd :coronavirus
 
 If you have updated the code 
